@@ -61,7 +61,7 @@ Output: `my_kbd.json`
 {
     "version": "0.1",
     "name": "my_kbd",
-    "author": "Virtual-Kabbage",
+    "author": "Virtual Kabbage",
     "characters": [
         {
             "row": 0,
