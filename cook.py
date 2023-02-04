@@ -1,10 +1,20 @@
 # encoding: utf-8
+# author: Alix Chagué
+# date: 2023-02-04
+# description: This script generates a json file from a csv file containing a keyboard layout for eScriptorium.
+# usage: python cook.py -i <input_file> -auth <author> -k <keyboard_name>
+# example: python cook.py -i kbd.csv -auth "Jane Doe <jane.doe@example.com>" -k "My Keyboard
+# requirements: numpy, termcolor, art
+# license: MIT
 
-import json
-import os
-import numpy as np
 
 import argparse
+import json
+import os
+
+from art import text2art
+import numpy as np
+from termcolor import cprint, colored
 
 
 # get arguments from command line
@@ -15,11 +25,8 @@ parser.add_argument("-k", help="keyboard name")
 args = parser.parse_args()
 
 # welcome message
-from art import tprint
-from termcolor import cprint
-print("\nWelcome to\n")
-tprint("Virtual Kabbage", font="smshadow")
-cprint("A virtual-keyboard generator for eScriptorium\n", "green")
+cprint(text2art("\nVirtual Kabbage", font="tarty1"), "green")
+cprint("A virtual-keyboard config generator for eScriptorium\n", "yellow")
 
 proceed = True
 # check if input ends with .csv
@@ -40,8 +47,8 @@ if proceed:
     
     # read keyboard layout from csv
     kbd_layout = np.genfromtxt(path, delimiter=',', dtype=None, encoding="utf8")
-    print("Keyboard layout successfully loaded")
-    print("Keyboard dimension will be", kbd_layout.shape[0], "x", kbd_layout.shape[1])
+    print(colored("✔", "green"), "Keyboard layout successfully loaded")
+    print(colored("🛈", "blue"), "The keyboard dimension will be", kbd_layout.shape[0], "x", kbd_layout.shape[1])
 
     # add author information to json file
     if args.auth:
@@ -74,6 +81,6 @@ if proceed:
     # write json file
     with open(output_path, "w", encoding="utf8") as f:
         json.dump(kbd, f, ensure_ascii=False, indent=4)
-        print("Keyboard layout successfully written to", output_path)
-     
+        print(colored("✔", "green"), "Keyboard layout successfully written to", output_path)
+
 
