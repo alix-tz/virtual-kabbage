@@ -1,0 +1,79 @@
+{
+    "version": "0.1",
+    "name": "Esperanto",
+    "author": "Virtual Kabbage & Alix Chagué <alix.chague@inria.fr>",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ĉ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "ĝ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "ĥ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "ĵ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "ŝ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "ŭ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "Ĉ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "Ĝ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "Ĥ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "Ĵ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "Ŝ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "character": "Ŭ",
+            "keyboard_code": null
+        }
+    ]
+}

@@ -1,0 +1,181 @@
+{
+    "version": "0.1",
+    "name": "Coptic for Nubian",
+    "author": "Virtual Kabbage & Alix Chagué <alix.chague@inria.fr>",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "ⳣ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "ⲱ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "ⲉ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "ⲣ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "ⲧ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "ⲓ̈",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 6,
+            "character": "ⲟⲩ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 7,
+            "character": "ⲓ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 8,
+            "character": "ⲟ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 9,
+            "character": "ⲡ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "ⲁ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "ⲥ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "ⲇ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "ⲫ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "ⲅ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "character": "ϩ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 6,
+            "character": "ⳝ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 7,
+            "character": "ⲕ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 8,
+            "character": "ⲗ",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 9,
+            "character": "`",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 0,
+            "character": "ⲍ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "character": "ⲝ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "character": "ϭ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "ⳡ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 4,
+            "character": "ⲃ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "character": "ⲛ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 6,
+            "character": "ⲙ",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 7,
+            "character": "-",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 8,
+            "character": " ̄ ",
+            "keyboard_code": null
+        }
+    ]
+}
