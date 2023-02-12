@@ -1,0 +1,217 @@
+{
+    "version": "0.1",
+    "name": "french_special",
+    "author": "Virtual Kabbage",
+    "characters": [
+        {
+            "row": 0,
+            "column": 0,
+            "character": "^",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 1,
+            "character": "«",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 2,
+            "character": "»",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 3,
+            "character": "œ",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 4,
+            "character": "€",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 5,
+            "character": "ç",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 6,
+            "character": "Ç",
+            "keyboard_code": null
+        },
+        {
+            "row": 0,
+            "column": 7,
+            "character": "°",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 0,
+            "character": "é",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 1,
+            "character": "è",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 2,
+            "character": "ê",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 3,
+            "character": "ë",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 4,
+            "character": "É",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 5,
+            "character": "È",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 6,
+            "character": "Ê",
+            "keyboard_code": null
+        },
+        {
+            "row": 1,
+            "column": 7,
+            "character": "Ë",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 1,
+            "character": "à",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 2,
+            "character": "â",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 3,
+            "character": "ä",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 5,
+            "character": "À",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 6,
+            "character": "Â",
+            "keyboard_code": null
+        },
+        {
+            "row": 2,
+            "column": 7,
+            "character": "Ä",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 0,
+            "character": "ô",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 1,
+            "character": "ö",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 2,
+            "character": "Ô",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 3,
+            "character": "Ö",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 4,
+            "character": "î",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 5,
+            "character": "ï",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 6,
+            "character": "Î",
+            "keyboard_code": null
+        },
+        {
+            "row": 3,
+            "column": 7,
+            "character": "Ï",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 0,
+            "character": "ù",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 1,
+            "character": "û",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 2,
+            "character": "ü",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 3,
+            "character": "Û",
+            "keyboard_code": null
+        },
+        {
+            "row": 4,
+            "column": 4,
+            "character": "Ü",
+            "keyboard_code": null
+        }
+    ]
+}
