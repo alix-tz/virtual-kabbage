@@ -1,7 +1,7 @@
 {
     "version": "0.1",
     "name": "french_special",
-    "author": "Virtual Kabbage",
+    "author": "Virtual Kabbage & Alix Chagué <alix.chague@inria.fr>",
     "characters": [
         {
             "row": 0,
@@ -175,12 +175,6 @@
             "row": 3,
             "column": 6,
             "character": "Î",
-            "keyboard_code": null
-        },
-        {
-            "row": 3,
-            "column": 7,
-            "character": "Ï",
             "keyboard_code": null
         },
         {
